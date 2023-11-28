@@ -1,0 +1,5 @@
+Rainbow High School Student data:
+Name           Class
+pavani         viii
+shourya         xii
+sowmya          x

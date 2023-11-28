@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\bin\Debug\Studentdata sortand search.exe.config
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\bin\Debug\Studentdata sortand search.exe
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\bin\Debug\Studentdata sortand search.pdb
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\obj\Debug\Studentdata sortand search.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\obj\Debug\Studentdata sortand search.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\obj\Debug\Studentdata sortand search.exe
+C:\Users\kotap\OneDrive\Desktop\Mphasis .net simpliLearn\Day17\Studentdata sortand search\Studentdata sortand search\obj\Debug\Studentdata sortand search.pdb
